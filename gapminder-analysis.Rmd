@@ -1,0 +1,23 @@
+---
+title: "gapminder-analysis"
+author: "Simran"
+date: "02/05/2018"
+output:  
+  html_document:
+    toc: true
+    toc_float: true
+    theme: simplex
+    highlights: zenburn
+---
+
+
+### Background
+
+Research should be **accessible** from the raw data to the presentation of figures.
+
+[gapminder](https://www.gapminder.org/)
+
+
+
+
+
